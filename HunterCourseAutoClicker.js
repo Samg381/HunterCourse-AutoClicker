@@ -8,8 +8,8 @@
 // @author       Samg381
 // @run-at       document-idle
 // @match        www2.huntercourse.com/*
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://raw.githubusercontent.com/Samg381/HunterCourse-AutoClicker/main/HunterCourseAutoClicker.js
+// @updateURL    https://raw.githubusercontent.com/Samg381/HunterCourse-AutoClicker/main/HunterCourseAutoClicker.js
 // @grant        none
 // @require
 // @noframes
